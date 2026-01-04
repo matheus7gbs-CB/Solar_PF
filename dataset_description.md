@@ -1,0 +1,6 @@
+- Fonte: Google Earth Pro
+- Área de estudo: Porto Ferreira – SP, Brasil
+- Altitude de visualização: ~XXX metros
+- Resolução aproximada: XX cm/pixel
+- Período de captura: 2024–2025
+- Critério de anotação: painéis fotovoltaicos visíveis em telhados

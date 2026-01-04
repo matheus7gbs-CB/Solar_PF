@@ -1,0 +1,28 @@
+# ========================
+# YOLO / Resultados
+# ========================
+runs/
+*.pt
+*.onnx
+*.engine
+
+# ========================
+# Dataset (não versionar)
+# ========================
+data/dataset/images/
+data/dataset/labels/
+data/raw/
+data/interim/
+
+# ========================
+# Python
+# ========================
+.venv/
+__pycache__/
+*.pyc
+
+# ========================
+# IDE / Sistema
+# ========================
+.vscode/
+.DS_Store
